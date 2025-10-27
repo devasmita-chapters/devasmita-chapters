@@ -1,15 +1,17 @@
 # 👋 Hi, I’m Devasmita Saha  
 
-✨ **Senior Data Analyst @ Walmart** with 12+ years of experience transforming data into decisions.  
-💡 I believe every dataset hides a story — one that can shape business outcomes, spark innovation, and deepen human understanding.  
-🧠 Currently exploring how **Generative AI** is redefining analytics, reasoning, and decision-making in large-scale organizations.  
-📝 Passionate about blending **storytelling with data** to make insights not just understandable, but unforgettable.  
+✨ Storyteller at heart, analyst by instinct.  
+💡 Every dataset hides a narrative — one that sparks insight and innovation.  
+🧠 Exploring how Generative AI is reshaping analytics and human reasoning.  
+📝 Constantly learning, questioning, and connecting dots that others miss.  
 🎨 I express creativity through **canvas art, books, and travel stories** — because storytelling exists in every form.  
-🌱 Constantly learning, unlearning, and reimagining what’s possible with data and imagination.  
-😄 **Fun facts:**  
- • I can turn an ordinary dataset into a cliffhanger.  
- • I’ve been told my dashboards have more personality than most presentations.  
- • My best ideas come while sipping coffee (or while debugging code I broke myself ☕).  
+
+😄 Fun Facts
+📊 I can turn an ordinary dataset into a cliffhanger.
+🎨 I’ve been told my dashboards have more personality than most presentations.
+🌊 I’ve been chasing quiet corners across India and beyond — from Pondicherry’s beaches to Bali’s hidden waterfalls.
+📚 I run an Instagram page @chaptersandcompass where I blend books, travel, and creative storytelling.
+🤖 My dream project? Combining AI, storytelling, and art to make insights feel... human.
 
 ---
 
