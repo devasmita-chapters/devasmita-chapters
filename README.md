@@ -1,22 +1,22 @@
-## 🧩 About Me  
+Hi there, I'm Devasmita Saha — aka [devasmita.codes] 👋  
 
-👋 **Hi, I’m Devasmita Saha**  
+🧠 **About Me!**  
+✨ Storyteller at heart, analyst by instinct.  
+💡 I believe every dataset hides a narrative — one that sparks insight and innovation.  
+🤖 Currently exploring how Generative AI is redefining analytics, reasoning, and creativity.  
+🎨 Outside of work, I express stories through canvas art, travel moments, and books.  
+📚 I also run [@chaptersandcompass](https://www.instagram.com/chaptersandcompass) — where data meets imagination.  
 
-✨ **Storyteller at heart, analyst by instinct.**  
-💡 Every dataset hides a narrative — one that sparks insight and innovation.  
-🧠 Exploring how **Generative AI** is reshaping analytics and human reasoning.  
-📝 Constantly learning, questioning, and connecting dots that others miss.  
-🎨 I express creativity through **canvas art, books, and travel stories** — because storytelling exists in every form.  
+🌱 **Learning:** AI for storytelling, prompt engineering, and decision intelligence.  
+👯 **Collaborating on:** Human + AI projects that turn insights into emotions.  
+💬 **Ask me about:** Data storytelling, GenAI, or creative analytics!  
+📫 **Reach me @** [LinkedIn](https://www.linkedin.com/in/devasmitasaha/) or [Instagram](https://www.instagram.com/chaptersandcompass).  
+😄 **Fun facts:**  
+ • I can turn an ordinary dataset into a cliffhanger.  
+ • My dashboards have more personality than most PowerPoints.  
+ • I’m always chasing quiet corners — from Pondicherry’s beaches to Bali’s hidden waterfalls.  
+⚡ **Dream project:** Blending AI, storytelling, and art to make insights feel... human.  
 
----
-
-### 😄 Fun Facts  
-
-📊 I can turn an ordinary dataset into a cliffhanger.  
-🎨 I’ve been told my dashboards have more personality than most presentations.  
-🌊 I’ve been chasing quiet corners across India and beyond — from Pondicherry’s beaches to Bali’s hidden waterfalls.  
-📚 I run an Instagram page [@chaptersandcompass](https://www.instagram.com/chaptersandcompass) where I blend books, travel, and creative storytelling.  
-🤖 My dream project? Combining **AI, storytelling, and art** to make insights feel... *human*.  
 
 
 ---
