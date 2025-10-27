@@ -1,17 +1,23 @@
-# 👋 Hi, I’m Devasmita Saha  
+## 🧩 About Me  
 
-✨ Storyteller at heart, analyst by instinct.  
+👋 **Hi, I’m Devasmita Saha**  
+
+✨ **Storyteller at heart, analyst by instinct.**  
 💡 Every dataset hides a narrative — one that sparks insight and innovation.  
-🧠 Exploring how Generative AI is reshaping analytics and human reasoning.  
+🧠 Exploring how **Generative AI** is reshaping analytics and human reasoning.  
 📝 Constantly learning, questioning, and connecting dots that others miss.  
 🎨 I express creativity through **canvas art, books, and travel stories** — because storytelling exists in every form.  
 
-😄 Fun Facts
-📊 I can turn an ordinary dataset into a cliffhanger.
-🎨 I’ve been told my dashboards have more personality than most presentations.
-🌊 I’ve been chasing quiet corners across India and beyond — from Pondicherry’s beaches to Bali’s hidden waterfalls.
-📚 I run an Instagram page @chaptersandcompass where I blend books, travel, and creative storytelling.
-🤖 My dream project? Combining AI, storytelling, and art to make insights feel... human.
+---
+
+### 😄 Fun Facts  
+
+📊 I can turn an ordinary dataset into a cliffhanger.  
+🎨 I’ve been told my dashboards have more personality than most presentations.  
+🌊 I’ve been chasing quiet corners across India and beyond — from Pondicherry’s beaches to Bali’s hidden waterfalls.  
+📚 I run an Instagram page [@chaptersandcompass](https://www.instagram.com/chaptersandcompass) where I blend books, travel, and creative storytelling.  
+🤖 My dream project? Combining **AI, storytelling, and art** to make insights feel... *human*.  
+
 
 ---
 
