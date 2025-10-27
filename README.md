@@ -4,12 +4,11 @@
 - ✨ **Storyteller at heart, analyst by instinct.**  
 - 💡 I believe every dataset hides a narrative — one that sparks insight and innovation.  
 - 🤖 Exploring how Generative AI is redefining analytics, reasoning, and creativity.  
-
-## 😄 Fun Facts  
-- 🧙‍♀️ I can turn an ordinary dataset into a cliffhanger.  
-- 📊 My dashboards have more personality than most PowerPoints.  
-- ✈️ I’ve been chasing quiet corners across India and beyond — from Pondicherry’s beaches to Bali’s hidden waterfalls.  
-- ⚡ **Dream Project:** Combining AI, storytelling, and art to make insights feel… human.  
+     ### 😄 Fun Facts  
+     - 🧙‍♀️ I can turn an ordinary dataset into a cliffhanger.  
+     - 📊 My dashboards have more personality than most PowerPoints.  
+     - ✈️ I’ve been chasing quiet corners across India and beyond — from Pondicherry’s beaches to Bali’s hidden waterfalls.  
+     - ⚡ **Dream Project:** Combining AI, storytelling, and art to make insights feel… human.  
 
      
 
