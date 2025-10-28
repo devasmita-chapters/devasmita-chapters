@@ -15,7 +15,7 @@
 
 ---
 
-## 🧩 What I Do  
+## 🧩 Professional Experience  
 🔹 **Data Storytelling:** Turning analytics into narratives that inspire business action.  
 🔹 **Gen AI Exploration:** Building and experimenting with LLM-powered workflows for analytics & operations.  
 🔹 **Decision Science:** Combining data intuition with reasoning frameworks to improve strategy.  
