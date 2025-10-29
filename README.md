@@ -16,7 +16,7 @@
 ---
 
 ## 🧩 Professional Experience  
-- **12+ Years of Impact:** Driving analytics-led decision-making across retail and operations, with 5 years at Walmart shaping data culture at scale.  
+- **12+ Years of Impact:** Driving analytics-led decision-making across retail and operations, shaping data culture at scale.  
 - **Data Storytelling:** Turning complex datasets into narratives that influence strategic business moves and executive decisions.  
 - **Gen AI Exploration:** Building LLM-powered prototypes and RAG workflows that merge analytics with automation and insight generation.  
 - **Decision Science:** Applying data intuition and structured reasoning to uncover opportunities, optimize performance, and guide strategy.  
