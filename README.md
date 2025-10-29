@@ -16,10 +16,12 @@
 ---
 
 ## 🧩 Professional Experience  
-🔹 **Data Storytelling:** Turning analytics into narratives that inspire business action.  
-🔹 **Gen AI Exploration:** Building and experimenting with LLM-powered workflows for analytics & operations.  
-🔹 **Decision Science:** Combining data intuition with reasoning frameworks to improve strategy.  
-🔹 **Mentorship & Learning:** Helping others see the “why” behind the “what” in every dataset.  
+🔹 12+ Years of Impact: Driving analytics-led decision-making across retail and operations, with 5 years at Walmart shaping data culture at scale.
+🔹 Data Storytelling: Turning complex datasets into narratives that influence strategic business moves and executive decisions.
+🔹 Gen AI Exploration: Building LLM-powered prototypes and RAG workflows that merge analytics with automation and insight generation.
+🔹 Decision Science: Applying data intuition and structured reasoning to uncover opportunities, optimize performance, and guide strategy.
+🔹 Mentorship & Growth: Empowering teams to think critically, question assumptions, and find the story behind every number.
+
 
 ---
 
