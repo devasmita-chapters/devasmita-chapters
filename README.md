@@ -48,7 +48,7 @@
 
 ## 💬 Let’s Connect  
 📫 **Email:** [devasmita.28@gmail.com](mailto:devasmita.saha@example.com)  
-💼 **LinkedIn:** [linkedin.com/in/devasmita-saha](https://www.linkedin.com/in/devasmita-saha)  
+💼 **LinkedIn:** [https://www.linkedin.com/in/devasmita-saha](https://www.linkedin.com/in/devasmita-saha-215a5538/)  
 🌐 **Portfolio:** Coming soon!  
 
 ---
