@@ -39,7 +39,7 @@
 
 ## 🌍 Beyond Work  
 
-📚 **Books** — A lifelong reader and the mind behind [@chaptersandcompass](https://www.instagram.com/chaptersandcompass), where I talk about stories that move us.  
+📚 **Books** — A lifelong reader and the mind behind [@chaptersandcompass](https://www.instagram.com/chapterandcompass), where I talk about stories that move us.  
 ✈️ **Travel** — Forever chasing oceans, mountains, and café corners that tell stories.  
 🌱 **Continuous Learning** — Always exploring new ideas at the crossroads of data, design, and storytelling.  
 
