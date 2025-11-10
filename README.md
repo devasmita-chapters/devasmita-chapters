@@ -3,7 +3,7 @@
 ## 🧑‍💻 About Me  
 ✨ **Storyteller at heart, analyst by instinct.**  
 💡 I believe every dataset hides a narrative — one that sparks insight and innovation.  
-🤖 Exploring how Generative AI is redefining analytics, reasoning, and creativity.  
+🤖 Exploring how Generative AI is redefining analytics, reasoning, and creativity.
 
 ### 😄 Fun Facts  
 🧙‍♀️ I can turn an ordinary dataset into a cliffhanger.  
