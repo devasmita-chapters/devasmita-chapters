@@ -7,7 +7,7 @@
 
 ### 😄 Fun Facts  
 🧙‍♀️ I can turn an ordinary dataset into a cliffhanger.  
-📊 My dashboards have more personality than most PowerPoints.  
+📊 My dashboards have more personality than most PowerPoints.
 ✈️ I’ve been chasing quiet corners across India and beyond — from Pondicherry’s beaches to Bali’s hidden waterfalls.  
 ⚡ **Dream Project:** Combining AI, storytelling, and art to make insights feel… human.  
 
