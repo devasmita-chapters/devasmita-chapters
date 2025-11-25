@@ -1,4 +1,4 @@
-### Hi There, I'm Devasmita Saha 👋  
+### Hi there, I'm Devasmita Saha 👋  
 
 ## 🧑‍💻 About Me  
 ✨ **Storyteller at heart, analyst by instinct.**  
