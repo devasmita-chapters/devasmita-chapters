@@ -2,13 +2,13 @@
 
 ## 🧑‍💻 About Me  
 ✨ **Storyteller at heart, analyst by instinct.**  
-💡 I believe every dataset hides a narrative — one that sparks insight and innovation.  
+💡 I believe every dataset hides a narrative — one that sparks insight and innovation.
 🤖 Exploring how Generative AI is redefining analytics, reasoning, and creativity.
 
 ### 😄 Fun Facts  
-🧙‍♀️ I can turn an ordinary dataset into a cliffhanger.  
+🧙‍♀️ I can turn an ordinary dataset into a cliffhanger.
 📊 My dashboards have more personality than most PowerPoints.
-✈️ I’ve been chasing quiet corners across India and beyond — from Pondicherry’s beaches to Bali’s hidden waterfalls.  
+✈️ I’ve been chasing quiet corners across India and beyond — from Pondicherry’s beaches to Bali’s hidden waterfalls.
 ⚡ **Dream Project:** Combining AI, storytelling, and art to make insights feel… human.
 
      
@@ -16,11 +16,11 @@
 ---
 
 ## 🧩 Professional Experience  
-- **12+ Years of Impact:** Driving analytics-led decision-making across retail and operations, shaping data culture at scale.  
-- **Data Storytelling:** Turning complex datasets into narratives that influence strategic business moves and executive decisions.  
-- **Gen AI Exploration:** Building LLM-powered prototypes and RAG workflows that merge analytics with automation and insight generation.  
-- **Decision Science:** Applying data intuition and structured reasoning to uncover opportunities, optimize performance, and guide strategy.  
-- **Mentorship & Growth:** Empowering teams to think critically, question assumptions, and find the story behind every number. 
+- **12+ Years of Impact:** Driving analytics-led decision-making across retail and operations, shaping data culture at scale.
+- **Data Storytelling:** Turning complex datasets into narratives that influence strategic business moves and executive decisions.
+- **Gen AI Exploration:** Building LLM-powered prototypes and RAG workflows that merge analytics with automation and insight generation.
+- **Decision Science:** Applying data intuition and structured reasoning to uncover opportunities, optimize performance, and guide strategy.
+- **Mentorship & Growth:** Empowering teams to think critically, question assumptions, and find the story behind every number.
 
 
 ---
